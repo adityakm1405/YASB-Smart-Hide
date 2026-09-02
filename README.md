@@ -14,6 +14,7 @@ window_flags:
   windows_app_bar: false
   hide_on_fullscreen: true
   hide_on_maximized: false
+```
              
 3) double click YASB_SmartHide.exe to run it, it will run in the background and will automatically detect if YASB is running or not.
 
