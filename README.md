@@ -16,7 +16,9 @@ window_flags:
   hide_on_maximized: false
 ```
              
-### 2. double click YASB_SmartHide.exe to run it, it will run in the background and will automatically detect if YASB is running or not.
+### 2. Run EXE File 
+
+double click YASB_SmartHide.exe to run it, it will run in the background and will automatically detect if YASB is running or not.
 
 ## Auto Run At Startup
 
