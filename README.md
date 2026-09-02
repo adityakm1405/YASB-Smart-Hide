@@ -1,13 +1,19 @@
-# YASB-Smart-HIde
+# YASB-Smart-Hide
+
 An AutoHotkey script that automatically hides and restores the YASB bar under specific conditions.
 
-#HowToUse
-1) Write this in YASB config.yaml and save it.
+## How To Use
+
+### 1. Configure YASB
+
+Write this in your `YASB config.yaml` and save it:
+
+```yaml
 window_flags:
-       always_on_top: true
-       windows_app_bar: false
-       hide_on_fullscreen: true
-       hide_on_maximized: false
+  always_on_top: true
+  windows_app_bar: false
+  hide_on_fullscreen: true
+  hide_on_maximized: false
              
 3) double click YASB_SmartHide.exe to run it, it will run in the background and will automatically detect if YASB is running or not.
 
